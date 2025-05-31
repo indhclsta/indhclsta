@@ -14,7 +14,6 @@ Saya pelajar SMKN Jakarta kejuruan Rekayasa Perangkat Lunak
 - Email: [indahcalistaexcella@gmail.com](mailto:indahcalistaexcella@gmail.com)
 - Instagram: [@indhclstx](https://instagram.com/indhclstx)
 
----
 
 
 
