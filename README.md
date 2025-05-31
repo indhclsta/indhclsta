@@ -17,4 +17,4 @@ Saya pelajar SMKN Jakarta kejuruan Rekayasa Perangkat Lunak
 ---
 
 
-Terima kasih sudah berkunjung!
+
