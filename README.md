@@ -16,7 +16,5 @@ Saya pelajar SMKN Jakarta kejuruan Rekayasa Perangkat Lunak
 
 ---
 
-"Kalau hidup adalah kode,
-saya sedang debugging nasib. 🤷‍♂️"
 
 Terima kasih sudah berkunjung!
