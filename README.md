@@ -1,9 +1,10 @@
 # Halo, saya Indah Callista Excella! 👋
 
-Saya pelajar SMKN 71 Jakarta, jurusan Rekayasa Perangkat Lunak.  
-Saya suka membuat aplikasi web menggunakan PHP dan TailwindCSS.
+Saya pelajar SMKN Jakarta kejuruan Rekayasa Perangkat Lunak 
 
 ## 🔧 Skill
+- HTML
+- CSS
 - PHP native
 - MySQL
 - TailwindCSS
