@@ -1,16 +1,18 @@
-# Halo, saya Indah Callista Excella! 👋
+# Halo, I’m Indah Callista Excella! 👋
 
-Saya pelajar SMKN Jakarta kejuruan Rekayasa Perangkat Lunak 
+I am a student specializing in Software Engineering. 
 
-## 🔧 Skill
+## 🔧 I am currently learning
 - HTML
 - CSS
 - PHP native
 - MySQL
 - TailwindCSS
-- JavaScript dasar
+- JavaScript basic
+- Laravel
+- Golang
 
-## 📫 Kontak
+## 📫 Contact
 - Email: [indahcalistaexcella@gmail.com](mailto:indahcalistaexcella@gmail.com)
 - Instagram: [@indhclstx](https://instagram.com/indhclstx)
 
