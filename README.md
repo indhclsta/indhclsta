@@ -14,7 +14,7 @@ I am a student specializing in Software Engineering.
 
 ## 📫 Contact
 - Email: [indahcalistaexcella@gmail.com](mailto:indahcalistaexcella@gmail.com)
-- Instagram: [@indhclstx](https://instagram.com/indhclstx)
+- Instagram: [@indahexcella](https://instagram.com/indahexcella)
 
 
 
